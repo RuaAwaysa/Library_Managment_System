@@ -28,7 +28,7 @@ Simplified fully functional Object-Oriented Python Library Management System  th
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/library-management-system.git
+git clone https://github.com/RuaAwaysa/Library_Managment_System.git
 cd library-management-system
 ```
 
