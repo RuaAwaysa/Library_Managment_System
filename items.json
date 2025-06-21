@@ -1,0 +1,39 @@
+[
+  {
+    "item_id": "B-654def",
+    "title": "Learn Python the Hard Way",
+    "author": "Zed Shaw",
+    "year": 2019,
+    "available": true,
+    "type": "Book",
+    "pages": 320,
+    "genre": "Programming",
+    "publisher": "O'Reilly Media",
+    "reserved_by": ""
+  },
+  {
+    "item_id": "M-111aaa",
+    "title": "National Geographic",
+    "author": "Various",
+    "year": 2024,
+    "available": true,
+    "type": "Magazine",
+    "issue": "April 2024",
+    "category": "Science",
+    "editor": "Susan Goldberg",
+    "publisher": "National Geographic Partners",
+    "reserved_by": null
+  },
+  {
+    "item_id": "B-d142c8",
+    "title": "Clean code",
+    "author": "sfgh",
+    "year": "2005",
+    "available": true,
+    "type": "Book",
+    "pages": 855,
+    "genre": "Scientific",
+    "publisher": "None",
+    "reserved_by": null
+  }
+]
